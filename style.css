@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(202, 249, 249);
+    
+}
+
+#score{
+    font-size: 20px;
+    margin-left: 200px;
+       
+}
+
+#timer{
+    font-size: 20px;
+    float: right;
+    margin-right: 200px;
+}
+
+#sketch_to_be_drawn{
+ text-emphasis-color: rgb(233, 146, 146);
+}
+
